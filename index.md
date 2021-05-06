@@ -1,34 +1,11 @@
-## Welcome to GitHub Pages
+## PAPER LIST
 
-You can use the [editor on GitHub](https://github.com/XiaoyuZhu-STU/PAPER-LIST/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+the following is a list of paper I have read or plan to read.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Finite element method
+1. [Analysis of Locally Stabilized Mixed Finite Element Mehtods for the Stokes Problem](https://www.ams.org/journals/mcom/1992-58-197/S0025-5718-1992-1106973-X/S0025-5718-1992-1106973-X.pdf)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoyuZhu-STU/PAPER-LIST/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
