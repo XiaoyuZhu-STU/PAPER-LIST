@@ -25,6 +25,7 @@ The following is a list of papers I have read or plan to read.
 
 * [Efficient Estimation of Space Varyting Parameters in Numerical Models Using Non-intrusive Subdomain Reduced Order Model](https://pdf.sciencedirectassets.com/272570/1-s2.0-S0021999120X00192/1-s2.0-S0021999120306410/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCUPf9ec1fm434ZZc2nDBKs4K7Fm4i2utNsyQ%2Fchp%2FMKgIhAL0JxxJShIdo5jMf4U6IJdQYN2RC2XD3AiGZftbaVeR9KrQDCC8QAxoMMDU5MDAzNTQ2ODY1Igwqrv3hqiH3nRdQpYMqkQOYrdzz1%2F8c%2BXWqVhAmiX6F9qYwvQXvQPpevA%2BTXk5iVWD%2BV5QhPmEcnSYpJzUZeejeS25I9BbIoHpGj1d3%2FD6Oo7WC89GANWQJVBSEniSKRixuL0XJ2Lmu9RjLHOBVvKkIQawtX0MmQahuM8BAJzol9rxM%2Fm%2BQ%2BSNpJqWSxT%2FhUnxvkPVEXS8hTexqCCsH8CndHRAfPiXIYqUK3o293rWBUI5f2fDRVXXvUNlzT6U8dB8aBJA4czrOEcaUEgu%2B8xEtq86IVeWBVl6RUAfgEmxGzjL0pBtRSO3d5WDWA9R1w7RgkeQAw89VuzQnZsEm%2FDr4zwS5Exwx%2BPBvSlPHPvEXEjSP%2BJEq9qTIqbnennI6BOs5b28ShhLv3qPO%2BAMLbvSNjnDeOaoZapNdA%2F1z4ba4CTkRE3BRphUC5jcJXlsHt5L1ICWqjn8qKKveZ3YY2AmZXUEXJNmUM0lDTjVYtYwEiRLOD9%2Fc0DNFU67j1I0WDHXnsKr8sfvgDQwD5k0mYLZzq7a1k9KA2wy1TGvi78y9dTCS4s%2BEBjrqAcCOI2UsWHxtPDv0SKNxZdkGX3cjSrSU5Wdw1cCl4RrTw8DQJDflC7LUHn0RR8A54eVyWkD0cYXUi%2BPU%2BBI%2BUATDhmpNNjT0La30iDUaEhzJNlER0okscpCDdGGhD9zt1eWoq657w%2B9XS%2BzeJIgeYb%2FNLzooDTmKaBO6AF5EbGKReQQbkcZGm8D%2Bp9w6MtKqE%2BSmIKAXrmaNg%2Fivw3lz1gByfYLGNlNY3ZjK7cjZYfbhl8fb1ZXaVYyi0poTdJDI2haI3dHr4UVXoFRfxGf%2BFJrCXCwB%2FAgF%2Fpq%2Fj57A50Wvthi%2FZc16UCdvZw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210506T150124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZLE2L4TQ%2F20210506%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6e61a7c697cc3485c8593fe30c7bbfb49a2511c5526b2f2dc8530b00a2c44d23&hash=71fddb523972528989e9132e5d30b6c4ad4c9a27d537eb6ccebcd377ea5fa65a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0021999120306410&tid=spdf-0a7a0136-c584-4933-9fde-db9d2f9ed437&sid=0e70822f863cd5416d4a2161b10be41c075egxrqa&type=client), Cong Xiao, Olwijin Leeuwenburgh.
 
+* [Nonparametric Variational Inference]
 
 
 
@@ -32,8 +33,9 @@ The following is a list of papers I have read or plan to read.
 
 
 ### reviews
+* [Inverse Problems as Statistics](https://iopscience.iop.org/article/10.1088/0266-5611/18/4/201/pdf), Steven N Evans, Philip B Stark.
 
-
+* [Bayesian Inference in Physics](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.83.943), Udo von Toussaint.
 
 
 #  Finite element method 
