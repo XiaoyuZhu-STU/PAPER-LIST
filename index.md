@@ -83,7 +83,7 @@ The following is a list of papers I have read or plan to read.
 
 
 
-#  Finite Element Method 
+#  PDE Solving
 ###  papers
 * [Analysis of Locally Stabilized Mixed Finite Element Mehtods for the Stokes Problem](https://www.ams.org/journals/mcom/1992-58-197/S0025-5718-1992-1106973-X/S0025-5718-1992-1106973-X.pdf)
 
