@@ -29,7 +29,11 @@ The following is a list of papers I have read or plan to read.
 
 * [Nonparametric Variational Inference](https://arxiv.org/ftp/arxiv/papers/1206/1206.4665.pdf), Samuel J. Gershman, Matthew D. Hoffman, David M. Blei.
 
+* [Black Box Variational Inference](http://proceedings.mlr.press/v33/ranganath14.pdf), Rajesh Ranganath, David M.Blei.
 
+* [Stochastic Variational Iference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), Matthew D.Hoffman John Paisley.
+
+* [An Adaptive Learning Rate for Stochastic Variational Inference](http://proceedings.mlr.press/v28/ranganath13.pdf) Rajesh Ranganath, David M.Blei.
 
 ### reviews
 * [Inverse Problems as Statistics](https://iopscience.iop.org/article/10.1088/0266-5611/18/4/201/pdf), Steven N Evans, Philip B Stark.
@@ -88,6 +92,7 @@ The following is a list of papers I have read or plan to read.
 ### papers
 * [Sparse Adaptice Taylor Approximation Algorithms for Parametrtic and Stochastic Elliptic PDEs](https://www.esaim-m2an.org/articles/m2an/pdf/2013/01/m2an120027.pdf), Abdellah Chkifa.
 
+* [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) Dacid M.Blei.
 
 
 
