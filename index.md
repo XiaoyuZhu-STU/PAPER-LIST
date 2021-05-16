@@ -40,6 +40,8 @@ The following is a list of papers I have read or plan to read.
 
 * [Bayesian Inference in Physics](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.83.943), Udo von Toussaint.
 
+* [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf), David M. Blei
+
 
 
 
